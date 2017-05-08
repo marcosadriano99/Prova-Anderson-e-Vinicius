@@ -1,0 +1,23 @@
+{
+  "name": "Prova-Anderson-e-Vinicius",
+  "version": "1.0.0",
+  "description": "Prova POS",
+  "main": "solucao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malafaya9/Prova-Anderson-e-Vinicius.git"
+  },
+  "author": "Anderson e Vinicius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malafaya9/Prova-Anderson-e-Vinicius/issues"
+  },
+  "homepage": "https://github.com/malafaya9/Prova-Anderson-e-Vinicius",
+  "dependencies": {
+    "csv-string": "^2.3.2",
+    "xml2js": "^0.4.17"
+  }
+}
